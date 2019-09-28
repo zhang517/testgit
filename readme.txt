@@ -16,3 +16,5 @@ gbk gbk
 new
 
 finish
+
+you are idiot
